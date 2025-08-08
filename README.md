@@ -48,13 +48,8 @@ Connect your trained model & run live recognition:
 - Extend the label set in `recognize.py` as needed.
 
 ---
-
-## 📁 Directory Structure
-
----
-
 ## 👨‍💻 Author
-- 🧑‍💻 *Your Name* — ML & CV Enthusiast
+- 🧑‍💻 *DIPTESH PANDA* — AI/ML ENGINEER 
 
 ---
 
